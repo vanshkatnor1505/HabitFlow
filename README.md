@@ -4,7 +4,7 @@ A comprehensive, production-ready to-do list and habit tracking application buil
 
 NOTE : this app is for my personal use and can contain default users but you can change and still use it. 
 
-WEBSITE LINK : habitflow.netlify.app
+WEBSITE LINK : https://habitflowv.netlify.app/
 WEBSITE APK : E-mail for apk on vanshkatnor1737@gmail.com
 
 ## 🌟 Features
