@@ -2,6 +2,11 @@
 
 A comprehensive, production-ready to-do list and habit tracking application built with React, TypeScript, Tailwind CSS, and Supabase. HabitFlow helps users manage daily tasks, build consistent routines, track progress with analytics, and get AI-powered insights for habit improvement.
 
+NOTE : this app is for my personal use and can contain default users but you can change and still use it. 
+
+WEBSITE LINK : habitflow.netlify.app
+WEBSITE APK : E-mail for apk on vanshkatnor1737@gmail.com
+
 ## 🌟 Features
 
 ### Core Features
