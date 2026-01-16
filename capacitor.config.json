@@ -1,0 +1,9 @@
+{
+  "appId": "com.vansh.habitflow",
+  "appName": "HabitFlow",
+  "webDir": "dist",
+  "server": {
+    "url": "https://habitflowv.netlify.app",
+    "cleartext": false
+  }  
+}
